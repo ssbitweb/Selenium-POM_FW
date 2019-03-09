@@ -3,8 +3,8 @@ This is Simple Selenium Page Object Model(POM)-Hybrid Framework using Page Facto
 
 Requirements:
 Java
-Maven
-Selenium 
-Extentreport
-Log4j
+\nMaven
+\nSelenium 
+\nExtentreport
+\nLog4j
 --------------------------------------------------------------------------
